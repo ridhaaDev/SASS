@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAGA,IAAI;EACF,gBAAgB,EAJD,IAAI;;AAMrB,KAAK;EACH,gBAAgB,EANN,MAAM",
+"mappings": "AAGA,IAAI;EACF,gBAAgB,EAJD,IAAI;;AAMrB,KAAK;EACH,gBAAgB,EANN,KAAK",
 "sources": ["htmlChallenge.scss"],
 "names": [],
 "file": "htmlChallenge.css"

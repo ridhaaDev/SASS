@@ -1,0 +1,33 @@
+$borderColor:#f2f2f2;
+$bannerColor: #33cc33;
+$linkColor:#fff;
+/*Styles for the banner challenge by Ridhaa Cupido*/
+/*Main container wherin the banner will be placed*/
+
+.main-container{
+  overflow: hidden;
+  width: 600px;
+  height: 250px;
+  border: 20px solid $borderColor;
+
+  /*Banner code*/
+  .banner{
+    text-align: center;
+    position: relative;
+    left: 230px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    background-color:$bannerColor;
+
+    /*Styling the text inside the banner*/
+    a{
+      border:10px solid $bannerColor;
+      padding-left: 170px ;
+      padding-right: 100px ;
+      text-decoration: none;
+      color: $linkColor;
+      font-size: 20px;
+    }
+  }
+
+}

@@ -1,0 +1,25 @@
+/*Styles for the banner challenge by Ridhaa Cupido*/
+/*Main container wherin the banner will be placed*/
+.main-container {
+  overflow: hidden;
+  width: 600px;
+  height: 250px;
+  border: 20px solid #f2f2f2;
+  /*Banner code*/ }
+  .main-container .banner {
+    text-align: center;
+    position: relative;
+    left: 230px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    background-color: #33cc33;
+    /*Styling the text inside the banner*/ }
+    .main-container .banner a {
+      border: 10px solid #33cc33;
+      padding-left: 170px;
+      padding-right: 100px;
+      text-decoration: none;
+      color: #fff;
+      font-size: 20px; }
+
+/*# sourceMappingURL=cssChallenge.css.map */
